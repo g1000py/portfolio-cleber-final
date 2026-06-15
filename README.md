@@ -56,7 +56,7 @@ npm install
 npm run dev
 ```
 
-Acesse em: `http://localhost:5173`
+Acesse em: `(https://portfolio-cleber.vercel.app)`
 
 ---
 
